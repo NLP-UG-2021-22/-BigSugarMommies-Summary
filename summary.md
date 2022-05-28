@@ -26,5 +26,8 @@ When we speak, we make some sounds with vocal folds open and vibrating.
 &ensp;This chapter shows IPA symbols and speech sounds, for each symbol there is an example of a word in which this sound occurs. The examples are here to make all the symbols easier to understand.  
 
 
+### 2.5
 
+&ensp;In phonetics sounds are categorised based on how they're made and their acoustic properties. The amount of acoustic energy in a sound is measured by its sonority. A loud sound is sonorous, whereas a quiet sound is not. When singing, you hold the note on the vowels for a lengthy period.
 
+&ensp;Consonant sounds can be voiced or voiceless. lides are an intermediate category that has some of the qualities of vowels and some of the properties of consonants. There are one or more syllables in every uttered word. A syllable is a sound that has a high level of sonority and is surrounded by sounds that have a lower level of sonority. The word ball, for example, contains the sonorous vowel sound, with two less-sonorous consonants on either side, **[b]** and **[l]**.
