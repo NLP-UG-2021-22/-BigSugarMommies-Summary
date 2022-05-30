@@ -8,6 +8,23 @@
 
 &ensp;Linguistics deals only with human communication, as we have a unique system, unlike other species. The unique aspects include the **articulatory system**: lungs, larynx, vocal folds, tongue, teeth, lips, and nose, which allow us to produce speech. Secondly, the **auditory system** with ears sensitive to the frequencies most common in human speech. And lastly, the **neural system**, which includes a complex and densely connected brain with many connections devoted to producing and understanding language. 
 
+### 1.2 Mental Grammar
+
+&ensp;Linguistics is a subfield of **cognitive science**, which main focus is the representation and organization of language knowledge in the human mind. 
+
+&ensp;In order for speakers of a language to understand each other they need some kind of **shared system**, which allows people to understand each other’s ideas trough speech. This system is called **mental grammar**. Despite the fact that all speakers of all languages share mental grammars, this book is focused on this system of English.  
+
+&ensp;First **sound systems** are discussed, specifically **phonetics** which is a study on how speakers produce specific sounds, and how listeners hear them. Next, **phonology** is considered. It is the organization of sounds in the mind. Then, focus is on **morphology** - study of the formation of meaningful words. **Syntax** is the next aspect worth taking a look at. It deals with combining words into phrases and sentences. Lastly, the discussion shifts towards **semantics**, which is concerned with the organization of the meanings of words and sentences in the mind.
+
+### 1.3 Creativity and Generativity
+
+&ensp;Creativity is one of the most fundamental properties of human language. When language is described as creative, it means that:
+1.	it can express any concept,
+2.	it can generate an infinite number of words and sentences, despite having a finite set of words, sounds and rules. 
+
+&ensp;Due to its ability to create new words and sentences, human grammar is **generative**. 
+
+
 ## Chapter 2: Producing Speech Sounds
 
 ### 2.1 How Human Produce Speech
