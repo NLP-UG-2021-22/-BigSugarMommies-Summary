@@ -1,3 +1,15 @@
+## Chapter 1: Thinking Like a Linguist
+
+### 1.1 Linguistics is science
+
+&ensp;This chapter introduces linguistics as **the science of human language**, which involves using scientific approach when asking questions about language. Taking scientific approach means making **[empirical] (https://www.merriam-webster.com/dictionary/empirical) observations**. 
+
+&ensp;Importantly, the observations mad about language are not judgements or valuations, which would constitute a prescriptive approach. Linguists, as well as other researchers in various different fields of science, use a **descriptive approach**, which means they describe the ways people use language without valuation whether it is correct or wrong. On the basis of these observations theories re developed of why people communicate the way they do. 
+
+&ensp;Linguistics deals only with human communication, as we have a unique system, unlike other species. The unique aspects include the **articulatory system**: lungs, larynx, vocal folds, tongue, teeth, lips, and nose, which allow us to produce speech. Secondly, the **auditory system** with ears sensitive to the frequencies most common in human speech. And lastly, the **neural system**, which includes a complex and densely connected brain with many connections devoted to producing and understanding language. 
+
+## Chapter 2: Producing Speech Sounds
+
 ### 2.1 How Human Produce Speech
 
 &ensp;Acoustic phonetics studies the physical, acoustic properties of the sound waves that we produce. It's concerned with how we use our bodies to produce speech sounds. Producing speech needs three mechanisms:
@@ -26,7 +38,7 @@ When we speak, we make some sounds with vocal folds open and vibrating.
 &ensp;This chapter shows IPA symbols and speech sounds, for each symbol there is an example of a word in which this sound occurs. The examples are here to make all the symbols easier to understand.  
 
 
-### 2.5
+### 2.5 Sonority, Consonants, and Vowels
 
 &ensp;In phonetics sounds are categorised based on how they're made and their acoustic properties. The amount of acoustic energy in a sound is measured by its sonority. A loud sound is sonorous, whereas a quiet sound is not. When singing, you hold the note on the vowels for a lengthy period.
 
