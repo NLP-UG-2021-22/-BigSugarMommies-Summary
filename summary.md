@@ -24,6 +24,24 @@
 
 &ensp;Due to its ability to create new words and sentences, human grammar is **generative**. 
 
+### 1.4 Fundamental Properties of Language
+
+&ensp;This chapter deals with fundamental properties of language, which may contradict some of popular misconceptions about languages.
+
+&ensp;Firstly, **all languages have grammar**, so the sounds system, morphology, syntax and semantics. They all have some sort of shared system – mental grammar, even the ones which do not have a written form.
+
+&ensp;Secondly, **all languages are equally valid**. There is no distinction between grammars in the terms of which is better; there is no such ranking. Despite linguists not evaluating languages and dialects this way, sociolinguistics tells us that some may be viewed positively or negatively by certain communities due to a variety of reasons. 
+
+&ensp;Third point, is that despite the many differences between languages, there are some **universal properties**, which are all human languages have in common, such as differentiating between nouns and verbs, or the existence of vowels and consonants. The field of linguistics concerned with these properties is called [**typology**] (https://en.wikipedia.org/wiki/Linguistic_typology). 
+
+&ensp;The next property deals with the fact that all languages **change** over time. Not one language stays exactly the same forever, conversely, it grows along with the society and reflects the social changes. 
+
+&ensp;Lastly, the authors discuss the fact that much of people’s **mental grammar** and knowledge about language **is unconscious**, and cannot be accessed with conscious awareness. Linguistics is thus focused on discovering this hidden knowledge and bringing it to light to further dissect its workings. 
+
+### 1.5 Language Change in Progress
+
+&ensp;This unit focuses on the changes in language, specifically English, that are currently happening. Some changes in language are faster, some slower, and some are more evident than others. Nevertheless, every part of a language’s grammar is prone to changes. Some of the most prominent changes are noticeable in the vocabulary (*beardo*, *awesomesauce*). Changes in the sound system happen more gradually. Syntax and morphology changes happen very slowly compared to the others. The last change discussed is happening in the pronoun system, with the shift from *thou* and *thee* to *you* mentioned, as well as the use of *they* when referring to a group as well as individuals. 
+
 
 ## Chapter 2: Producing Speech Sounds
 
