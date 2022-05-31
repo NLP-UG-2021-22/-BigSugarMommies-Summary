@@ -2,7 +2,7 @@
 
 ### 1.1 Linguistics is science
 
-&ensp;This chapter introduces linguistics as **the science of human language**, which involves using scientific approach when asking questions about language. Taking scientific approach means making **[empirical] (https://www.merriam-webster.com/dictionary/empirical) observations**. 
+&ensp;This chapter introduces linguistics as **the science of human language**, which involves using scientific approach when asking questions about language. Taking scientific approach means making **[empirical](https://www.merriam-webster.com/dictionary/empirical) observations**. 
 
 &ensp;Importantly, the observations mad about language are not judgements or valuations, which would constitute a prescriptive approach. Linguists, as well as other researchers in various different fields of science, use a **descriptive approach**, which means they describe the ways people use language without valuation whether it is correct or wrong. On the basis of these observations theories re developed of why people communicate the way they do. 
 
@@ -32,7 +32,7 @@
 
 &ensp;Secondly, **all languages are equally valid**. There is no distinction between grammars in the terms of which is better; there is no such ranking. Despite linguists not evaluating languages and dialects this way, sociolinguistics tells us that some may be viewed positively or negatively by certain communities due to a variety of reasons. 
 
-&ensp;Third point, is that despite the many differences between languages, there are some **universal properties**, which are all human languages have in common, such as differentiating between nouns and verbs, or the existence of vowels and consonants. The field of linguistics concerned with these properties is called [**typology**] (https://en.wikipedia.org/wiki/Linguistic_typology). 
+&ensp;Third point, is that despite the many differences between languages, there are some **universal properties**, which are all human languages have in common, such as differentiating between nouns and verbs, or the existence of vowels and consonants. The field of linguistics concerned with these properties is called **[typology](https://en.wikipedia.org/wiki/Linguistic_typology)**. 
 
 &ensp;The next property deals with the fact that all languages **change** over time. Not one language stays exactly the same forever, conversely, it grows along with the society and reflects the social changes. 
 
