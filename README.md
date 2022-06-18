@@ -1,1 +1,1 @@
-# -BigSugarMommies-Summary
+File summary.md contains a summary of chapters 1 and 2 from the book *Essentials of Linguistics* by Catherine Anderson. Chapter 1 was summarised by Agnieszka Kercz. Sections 2.1-2.5 were summarised by Klaudia Szulc and sections 2.6-2.10 by Weronika Stickel. The book can be found [here](https://ecampusontario.pressbooks.pub/essentialsoflinguistics/).
