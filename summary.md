@@ -78,3 +78,15 @@ When we speak, we make some sounds with vocal folds open and vibrating.
 &ensp;In phonetics sounds are categorised based on how they're made and their acoustic properties. The amount of acoustic energy in a sound is measured by its sonority. A loud sound is sonorous, whereas a quiet sound is not. When singing, you hold the note on the vowels for a lengthy period.
 
 &ensp;Consonant sounds can be voiced or voiceless. lides are an intermediate category that has some of the qualities of vowels and some of the properties of consonants. There are one or more syllables in every uttered word. A syllable is a sound that has a high level of sonority and is surrounded by sounds that have a lower level of sonority. The word ball, for example, contains the sonorous vowel sound, with two less-sonorous consonants on either side, **[b]** and **[l]**.
+
+### 2.6 Classifying Consonants
+
+This subchapter revolves aroundconsonants. We need to k eep in mind that consonants have a vocal tract restriction that either entirely or partially prevents airflow. Three bits of information allow us to categorize consonants. A consonant's voicing—whether it is voiced or voiceless—is the first thing we need to know about it. We were able to distinguish between voiced and voiceless sounds in the speech production video by feeling the vocal folds vibrate for voiced consonants like **[z]** and **[v]**. The vocal folds are held apart for voiceless sounds like **[s]** and **[f]** in order to allow air to pass through.
+
+### 2.7 Classifying Vowels
+
+Additionally, we categorize vowels based on whether or not the lips are rounded. Only four vowels in Canadian English feature lip rounding, and they are all produced with the tongue at the rear of the mouth. There is a distinction between tense and lax vowels in English, while many other languages do not. Both the I sound in sheep and the [] sound in ships are made using a high, forward-facing tongue and an unrounded set of lips. Numerous monosyllabic words have tense vowels as their primary component. However, there aren't any **monosyllabic** words lacking a final consonant that are built around a loose vowel.
+
+### 2.8 Diphthongs
+
+The last lesson covers basic vowels, in which the tongue position is rather stable across the course of the syllable. Many languages also use diphthongs, which are produced by moving our articulators while making the vowel, in addition to plain vowels. As a result, the sound's final shape differs from how it started. Canadian English people also frequently transform the mid-tense vowels into diphthongs, in addition to these major English diphthongs. The tense vowel in get is typically spoken as **[et]** by Canadian English speakers, who pronounce the lax vowel as a plain vowel **[t]**. Although not all English dialects do so, speakers of Canadian English frequently form diphthongs for the tense vowels **[e]** and **[o]**.
