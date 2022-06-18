@@ -94,3 +94,7 @@ When we speak, we make some sounds with vocal folds open and vibrating.
 ### 2.9 Various Accents of English
 
 &ensp;Where we draw the lines between accents is rather arbitrary. Additionally, any lines we draw to delineate groups of people will be inaccurate since people who attach to one set of norms for pronouncing words may not precisely match those individuals who adhere to the other set of conventions for the accent we are studying. Each of these non-standard accents can be defined in its **"wide"** form, which deviates the greatest from the regional standard, although the majority of the time, people talk in a range between a specific non-standard accent and the applicable standard.
+
+### 2.10 Classifying Signs
+
+&ensp;In this chapter spoken language sounds are discussed. Vowels are classified according to the position of the tongue and whether the lips are rounded, whereas consonants are classified according to their place & mode of articulation and voicing. That is a rather organized structure for the spoken language parts, which are produced by the mouth (as well as the **articulators**, **larynx**, and **lungs**), and heard by the ears.
